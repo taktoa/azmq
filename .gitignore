@@ -13,3 +13,8 @@
 *.a
 *.pyc
 build/*
+
+# Temporary
+default.nix
+shell.nix
+result
